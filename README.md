@@ -1,7 +1,7 @@
 # react-dashboard
 Tech Stack used: Reactjs, Springboot, Postgres, Docker
 
-<img width="960" alt="image" src="https://github.com/sebinfrancis7/react-dashboard/assets/59263190/db482f65-6c1c-4258-a6b2-1b380503a33e">
-<img width="960" alt="image" src="https://github.com/sebinfrancis7/react-dashboard/assets/59263190/9ed7aca7-f4c0-42a0-b54f-f968e028544e">
-<img width="960" alt="image" src="https://github.com/sebinfrancis7/react-dashboard/assets/59263190/ecfcc76e-8404-4bbb-88f7-2ce1eb6b017e">
+<img width="960" alt="image" src="https://github.com/sebinfrancis7/react-dashboard/assets/59263190/8f73ce9c-5b70-4ad6-9f9d-61969b488beb">
+<img width="955" alt="image" src="https://github.com/sebinfrancis7/react-dashboard/assets/59263190/bc511e3f-22a0-4994-9ce2-db20ad8ea908">
+<img width="959" alt="image" src="https://github.com/sebinfrancis7/react-dashboard/assets/59263190/213672c8-2b97-4030-a755-7a6a55976a5f">
 
